@@ -1,0 +1,36 @@
+.xcard{
+    display: flex;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-size: .8rem;
+}
+
+.usercard{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+
+.fotoperfil{
+    height: 50px;
+    width: 50px;
+    border-radius: 1000px;
+}
+
+.userinfo{
+    display: flex;
+    flex-direction: column;
+}
+
+.usuario{
+    opacity: .6;
+}
+
+.btnseguir{
+    margin-left: 16px;
+    border: 0;
+    border-radius: 999px;
+    padding: 6px 16px;
+    font-weight: bold;
+}
